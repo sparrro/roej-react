@@ -1,0 +1,10 @@
+.GameHeader {
+    width: 20rem;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.GameHeader input {
+    width: 2.5rem;
+}
